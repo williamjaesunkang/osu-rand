@@ -70,4 +70,4 @@ async def wisdom(ctx, *, question):
 #     if file.endswith('.py'):
 #         client.load_extension(f'cogs.{filename[]}'')
 
-client.run('NzMzODUzNTY2NTM1NzI5MTUz.XxJ5Eg.g3Wka3GQ9PwJtFhSYLOL4EW9NG0')
+client.run('<Discord Bot Token Here>')
