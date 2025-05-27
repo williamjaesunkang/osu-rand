@@ -11,3 +11,5 @@ current contributors to osu!rand ( hopefully there will be more people to help d
 
 this project has only just started and will continue to grow!
 thank you to anyone who is willing to support and has already supported this project :D
+
+NOTICE: This bot was originally created in the summer of 2020. It has an already existing repository on a previously used account, but has been moved to this account to better centralize my body of work.
