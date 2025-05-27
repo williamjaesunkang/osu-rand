@@ -23,12 +23,12 @@ async def on_ready():
 # straightforward
 @client.event
 async def on_member_join(member):
-    print(f'{member} has joined the shitter!')
+    print(f'{member} has joined the server!')
 
 # straightforward
 @client.event
 async def on_member_remove(member):
-    print(f'{member} has left the shitter.')
+    print(f'{member} has left the server.')
 
 # fake working system lol ( {round(client.latency * 1000)} ms )
 num1 = random.randint(0,297933)
